@@ -1,0 +1,17 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    margin: 10px;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    border: none;
+    background: skyblue;
+    max-width: 350px;
+    min-width: 200px;
+}
+
+.cardText{
+    padding: 10px;
+}

@@ -1,0 +1,12 @@
+
+
+Home:
+
+Sortear um
+Sortear Grupos
+
+
+Melhorias sortear um :
+
+- Permitir 16 participantes, excluindo o card de adição ao inserir o participante número 16;
+- Limpar input de nomes ao inserir;

@@ -1,0 +1,11 @@
+.homeStyle{
+    display: flex;
+    flex-direction: row;
+}
+
+.homeText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}

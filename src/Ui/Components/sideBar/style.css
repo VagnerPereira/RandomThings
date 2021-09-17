@@ -1,0 +1,10 @@
+.sideBar{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    min-width: 200px;
+    background-color: blanchedalmond;
+    height: 100vh;
+    padding-top: 80px;
+    position: fixed;
+}

@@ -1,0 +1,30 @@
+.cardGroup{
+    padding: 2px;
+    margin: 7px;
+    border-radius: 15px;
+}
+
+.cardGroupText{
+    padding: 5px;
+}
+
+.generalCardGroup0{
+    background: skyblue;
+}
+
+.generalCardGroup1{
+    background: rgb(135, 235, 140);
+}
+
+.generalCardGroup2{
+    background: rgb(235, 135, 135);
+}
+
+.generalCardGroup3{
+    background: rgb(228, 235, 135);
+}
+
+.generalCardGroup4{
+    background: rgb(235, 135, 210);
+}
+

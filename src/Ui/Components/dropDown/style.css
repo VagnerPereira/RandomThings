@@ -1,0 +1,15 @@
+.dropDownClass{
+    position: fixed;
+    right: 15px;
+    top: 15px;
+    padding: 20px;
+    box-shadow: -4px 4px 5px slategrey;
+    padding: 0px;
+    margin: 20px;
+}
+
+.dropDownClassIn{
+    font-size: 20px;
+}
+
+

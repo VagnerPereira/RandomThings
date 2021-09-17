@@ -1,0 +1,12 @@
+.removeButton{
+    padding: 10px 14px;
+    font-size: 18px;
+    background-color: brown;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.removeButton:active{
+    box-shadow: -2px 2px 4px black;
+}

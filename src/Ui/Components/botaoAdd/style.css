@@ -1,0 +1,40 @@
+.botaoAdd{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    margin: 10px;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    border: none;
+    background: skyblue;
+    max-width: 350px;
+    max-height: 100px;
+}
+
+.botaoAdd:active{
+    box-shadow: -5px 5px 5px black;
+}
+
+.plusBotaoAdd{
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 30px;
+    border-radius: 100px;
+    color: rgba(0, 0, 0, 0.76);
+    border: double 5px rgba(0, 0, 0, 0.76);
+    box-shadow: -3px 3px 7px rgba(0, 0, 0, 0.671);
+}
+
+.plusBotaoAdd:active{
+    box-shadow: -3px 3px 7px black;
+}
+
+.textInputBotaoAdd{
+    color: rgba(0, 0, 0, 0.842);
+    border: none;
+    background: rgba(204, 204, 204, 0.712);
+    border-radius: 10px;
+    height: 20px;
+    width: 60%;
+}
